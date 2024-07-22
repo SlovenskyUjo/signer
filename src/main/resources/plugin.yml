@@ -1,0 +1,7 @@
+name: Signer
+version: '${project.version}'
+main: sk.slovenskyujo.signer.Signer
+api-version: '1.20'
+commands:
+  signer:
+    description: Sign your custom item.
